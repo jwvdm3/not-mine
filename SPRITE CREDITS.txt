@@ -1,0 +1,17 @@
+SPRITE CREDITS
+
+These sprite sheets are hosted here for use in my projects for W3Cx's HTML5 Apps and Games course.  In particular, they are all used in my 'Spritely' demonstration page,
+	https://codepen.io/editor/jwvdm/pen/019fa01f-291b-701f-83b4-17c930c8cbc2
+which includes the formal credits for the three alphabet sheets.
+
+
+The six ROBOT sprite sheets were supplied by the course in a zip file.
+
+The three alphabet sheets, identified as:
+	https://pixabay.com/illustrations/font-letters-numbers-alphabet-wood-7176838/
+	https://pixabay.com/illustrations/font-alphabet-aquarium-fish-cat-7804584/
+	https://pixabay.com/illustrations/font-alphabet-letters-numbers-sun-8066372/
+were all created by 'ALEX'
+	https://pixabay.com/users/alexnewworld-13981350
+and were downloaded from Pixabay
+	https://pixabay.com
